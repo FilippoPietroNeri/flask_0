@@ -1,0 +1,20 @@
+nomeRegione,nomeCapoluogo,popolazioneRegione,popolazioneCapoluogo,percorsoImmagine
+Lombardia,Milano,10020838,1300000,data/imgRegioni/1200px-Regione-Lombardia-Stemma.svg.png
+Lazio,Roma,5879082,2873000,data/imgRegioni/1200px-Regione-Lazio-Stemma.svg.png
+Campania,Napoli,5801692,970185,data/imgRegioni/1200px-Regione-Campania-Stemma.svg.png
+Sicilia,Palermo,5026989,676118,data/imgRegioni/1200px-Regione-Siciliana-Stemma.svg.png
+Veneto,Venezia,4905854,260000,data/imgRegioni/1200px-Regione-Veneto-Stemma.svg.png
+Piemonte,Torino,4341375,887000,data/imgRegioni/1200px-Regione-Piemonte-Stemma.svg.png
+Toscana,Firenze,3729641,382258,data/imgRegioni/1200px-Regione-Toscana-Stemma.svg.png
+Emilia-Romagna,Bologna,4467118,391000,data/imgRegioni/1200px-Regione-Emilia-Romagna-Stemma.svg.png
+Puglia,Bari,4029053,325052,data/imgRegioni/1200px-Regione-Puglia-Stemma.svg.png
+Calabria,Catanzaro,1953491,91668,data/imgRegioni/1200px-Regione-Calabria-Stemma.svg.png
+Abruzzo,L'Aquila,1311580,66985,data/imgRegioni/1200px-Regione-Abruzzo-Stemma.svg.png
+Friuli-Venezia Giulia,Trieste,1215220,204686,data/imgRegioni/1200px-Regione-Friuli-Venezia-Giulia-Stemma.svg.png
+Marche,Ancona,1525271,100497,data/imgRegioni/1200px-Regione-Marche-Stemma.svg.png
+Liguria,Genova,1550640,583601,data/imgRegioni/1200px-Regione-Liguria-Stemma.svg.png
+Sardegna,Cagliari,1639591,154460,data/imgRegioni/1200px-Regione-Sardegna-Stemma.svg.png
+Umbria,Perugia,885208,168066,data/imgRegioni/1200px-Regione-Umbria-Stemma.svg.png
+Basilicata,Potenza,562869,67590,data/imgRegioni/1200px-Regione-Basilicata-Stemma.svg.png
+Molise,Certo Campobasso,296104,49002,data/imgRegioni/1200px-Regione-Molise-Stemma.svg.png
+Valle d'Aosta,Aosta,125666,34062,data/imgRegioni/1200px-Regione-Valle-d'Aosta-Stemma.svg.png
